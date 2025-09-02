@@ -1,5 +1,4 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
 import MindMap from './components/MindMap.vue'
 </script>
 
@@ -7,7 +6,6 @@ import MindMap from './components/MindMap.vue'
   <div>
   </div>
   <MindMap />
-  <HelloWorld msg="Vite + Vue" />
 </template>
 
 <style scoped>
