@@ -8,6 +8,7 @@
   
     onMounted(() => {
       const graph = new Graph({
+        // container: document.getElementById('container'),
         container: document.getElementById('container'),
         width: 500,
         height: 500,

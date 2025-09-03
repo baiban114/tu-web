@@ -1,11 +1,13 @@
 <script setup>
 import MindMap from './components/MindMap.vue'
+import Graph from './components/Graph.vue'
 </script>
 
 <template>
   <div>
   </div>
-  <MindMap />
+  <!-- <MindMap /> -->
+    <Graph />
 </template>
 
 <style scoped>
